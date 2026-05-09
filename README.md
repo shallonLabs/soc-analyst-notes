@@ -1,60 +1,63 @@
-# Hi, I'm Shallon 👋
+# 👋 Hi, I'm Shallon
 
-## Aspiring Cybersecurity Professional
+## Cybersecurity Enthusiast | SOC Analyst in Training
 
-Welcome to my cybersecurity learning portfolio.
-
-I am currently learning:
-- Networking
-- Linux
-- Ethical Hacking
-- SOC Analysis
-- OSINT
-- Web Security
+I am focused on building strong practical cybersecurity skills through labs, projects, and real-world simulations.
 
 ---
 
-## Skills
-- Basic Networking
-- Linux Commands
-- Nmap Scanning
-- Wireshark Analysis
-- Git & GitHub
+## 🔐 Skills (In Progress)
+- Linux Security & Command Line
+- Networking Fundamentals
+- Nmap & Network Scanning
+- Wireshark Packet Analysis
+- OSINT Techniques
+- Web Security Basics
 
 ---
 
-## Current Labs & Projects
-- Nmap scanning practice
-- Linux security lab
-- TryHackMe rooms
-- Cybersecurity notes
-- OSINT research
+## 🧪 Hands-on Practice
+- TryHackMe labs
+- Hack The Box beginner rooms
+- Local virtual lab (VirtualBox + Kali Linux)
+- Nmap & vulnerability scanning practice
+- Cybersecurity notes & documentation
 
 ---
 
-## Tools I Use
+## 🛠️ Tools
 - Kali Linux
 - Nmap
 - Wireshark
 - Burp Suite
 - VirtualBox
+- Git & GitHub
 
 ---
 
-## Learning Platforms
-- TryHackMe
-- Hack The Box
-- Cisco Skills for All
+## 📚 Currently Learning
+- SOC Analyst fundamentals
+- Ethical hacking basics
+- Incident response
+- Python for cybersecurity
 
 ---
 
-## Goals for 2026
-- Build strong cybersecurity skills
-- Complete practical labs
-- Earn cybersecurity certifications
-- Get my first cybersecurity job
+## 🎯 Goals (2026)
+- Build a strong cybersecurity portfolio
+- Complete 100+ hands-on labs
+- Earn entry-level certification
+- Land a SOC or junior cybersecurity role
 
 ---
 
-## Connect With Me
-GitHub: https://github.com/shallonLabs
+## 📂 Featured Projects
+- Cybersecurity notes repository
+- Nmap scanning lab
+- Linux security practice
+- CTF writeups
+
+---
+
+## 📫 Contact
+GitHub: https://github.com/yourusername
